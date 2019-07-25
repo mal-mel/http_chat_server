@@ -1,5 +1,10 @@
 # HTTP chat server
 
+## Запуск:
+
+* ```pipenv install --dev```
+* ```python server.py```
+
 ## Основные модели:
 
 ### User
