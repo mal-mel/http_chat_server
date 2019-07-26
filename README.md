@@ -2,7 +2,7 @@
 
 ## Запуск:
 
-* ```pipenv install --dev```
+* ```pipenv shell```
 * ```python server.py```
 
 ## Основные модели:
